@@ -1,0 +1,33 @@
+11
+Kristian Bautista
+Binangonan, Rizal
+1
+Vince Parocha
+Valenzuela
+2
+John Janiel
+North Caloocan
+3
+Mark Diaz
+Bulacan
+4
+Chris Fetalver
+Romblon
+5
+Paul Dacalan
+Manila
+6
+Deux Marquez
+Quezon 
+7
+Sean Delapena
+Paranaque
+8
+Marc Del Rosario
+Marikina
+9
+Christian Maravillas
+Malabon
+10
+Pierre Dela Rosa
+Taguig

@@ -1,0 +1,130 @@
+1
+10
+The Conjuring
+Horror
+Warner Bros.
+2
+10
+Get Out
+Horror
+Universal
+3
+10
+A Quiet Place
+Horror
+Paramount
+4
+10
+Hereditary
+Horror
+A24
+5
+10
+IT
+Horror
+Warner Bros.
+6
+10
+La La Land
+Romance
+Summit Ent.
+7
+10
+Titanic
+Romance
+20th C. Fox
+8
+10
+A Star is Born
+Romance
+Warner Bros.
+9
+10
+Your Name
+Romance
+Toho Co.
+10
+10
+Pride and Prejudice
+Romance
+Focus Fts.
+11
+10
+Blade Runner 2049
+Sci-Fi
+Warner Bros.
+12
+10
+Inception
+Sci-Fi
+Warner Bros.
+13
+10
+The Matrix
+Sci-Fi
+Warner Bros.
+14
+10
+Interstellar
+Sci-Fi
+Paramount
+15
+10
+Arrival
+Sci-Fi
+Paramount
+16
+10
+Mad Max: Fury Road
+Action
+Warner Bros.
+17
+10
+John Wick
+Action
+Summit Ent.
+18
+10
+Die Hard
+Action
+20th C. Fox
+19
+10
+The Dark Knight
+Action
+Warner Bros.
+20
+10
+Gladiator
+Action
+DreamWorks
+21
+10
+Superbad
+Comedy
+Columbia
+22
+10
+Anchorman: The Legend of Ron Burgundy
+Comedy
+DreamWorks
+23
+10
+Step Brothers
+Comedy
+Columbia
+24
+10
+The Hangover
+Comedy
+Warner Bros.
+25
+10
+Bridesmaids
+Comedy
+Universal
+26
+9
+tianlala
+horror
+bautistas
